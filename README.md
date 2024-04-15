@@ -6,7 +6,7 @@
     <th>Cidade natal</th>
   </tr>
   <tr>
-    <td>Leonardo</td>
+    <td>Leonardo Lima</td>
     <td>Garanhuns</td>
   </tr>
 </table>
